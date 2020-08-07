@@ -1,4 +1,4 @@
-# 🙏🏻 Thanks for checking-out my github profile.
+# Thanks for checking-out my github profile.
 
 ### If you'd like to connect on LinkedIn, please click here: [https://www.linkedin.com/in/sudeepbasnet/](https://www.linkedin.com/in/sudeepbasnet/) 
 
