@@ -1,6 +1,6 @@
 # Thanks for checking-out my github profile.
 
-💻 Most of my repos are me Practicing || Experimenting || Building various Data Science && Web Development projects
+💻 Most of my repos are me Practicing || Experimenting || Building various Web Development && Data Science projects
 
 🏫 Some of my repos are projects I did during my time as a graduate research and teaching assistant at the [University of Nebraska - Lincoln](https://www.unl.edu/)
 
@@ -8,4 +8,4 @@
 
 🤖 I am more of a GENERALIST, I have various interest areas but all of them fall under "Software Development" or "Data Science" umbrellas
 
-🖥️ I'm currently focusing on learning Fullstack Web Development using NodeJS (learning to use TypeScript), Express, MongoDb and VueJS (or sometimes Angular)
+🖥️ I'm currently focusing on learning all aspects of Fullstack Web Development, using Node (with TypeScript), Express, MongoDb and Vue and React (or sometimes Angular). I have gotten pretty good with the MEVN stack 😊
