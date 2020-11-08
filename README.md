@@ -8,4 +8,4 @@
 
 🤖 I am more of a GENERALIST, I have various interest areas but all of them fall under "Software Development" or "Data Science" umbrellas
 
-🖥️ I'm currently focusing on learning all aspects of Fullstack Web Development, using Node (with TypeScript), Express, MongoDb and, Vue/React (or sometimes Angular). I feel like I have gotten pretty good with the MEVN stack 😊
+🖥️ I'm currently focusing on Fullstack Web Development, using Node (with TypeScript), Express, MongoDb and, Vue/React (or sometimes Angular). I feel like I have gotten pretty good with the MEVN stack 😊
