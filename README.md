@@ -11,4 +11,4 @@
 🖥️ I'm currently focusing on Fullstack Web Development, using Node (with TypeScript), Express, MongoDb and, Vue/React (or sometimes Angular). I feel like I have gotten pretty good with the MEVN and MERN stack 😊
 
 
-🍻 [Know me a little better](https://sudbasnet.github.io/)
+### 🍻 [Know me a little better](https://sudbasnet.github.io/)
