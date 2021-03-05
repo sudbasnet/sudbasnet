@@ -4,7 +4,7 @@
 
 🏫 Some of my repos are projects I did during my time as a graduate research and teaching assistant at the [University of Nebraska - Lincoln](https://www.unl.edu/)
 
-🎓 I graduated with a Master of Science degree in Computer Science on Aug-2019, I am currently working as a Technical Consultant in the retail & supply chain area
+🎓 I graduated with a Master of Science degree in Computer Science on Aug-2019, I am currently working as a Technical Consultant with a focus on Software Development and Data Engineering in the retail & supply chain area
 
 🤖 I am more of a GENERALIST, I have various interest areas but all of them fall under "Software Development" or "Data Science" umbrellas
 
